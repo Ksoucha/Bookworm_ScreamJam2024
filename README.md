@@ -4,11 +4,8 @@
  A horror game made with Unity in first-person 3D, in collaboration with 6 people listed here: https://ksoucha.itch.io/the-bookworm. 
  
 <p align="justify">
- We tried to make a wordplay with the word "bookworm", first by taking it figuratively (a person who loves reading books), and then literally (a worm living inside a book). The game starts with multiple images and text used 
- to tell the story of a girl who spends her days reading, when one day she finishes her book and heads to the library. The player then can move around to head to the library. When the player is in the library, the screen 
- turns black and one of the books "devours" him. The player ends up in a maze, and he has to escape before the bookworm "eats" him. There will be a white flag indicating the maze exit. While the bookworm is flying above the 
- maze, the floor and wall tiles that he passes by will disappear, so the player has to hurry. The bookworm will also occasionnally make scary sounds. The player has a dim torch lamp to guide him through the maze. The bad 
- ending will be displayed if the player loses, and the same goes for the good ending. 
+The game idea came from me: I tried to make a wordplay with the word "bookworm", first by taking it figuratively (a person who loves reading books), and then literally (a worm living inside a book). The game starts with multiple images and text used to tell the story of a girl who spends her days reading, when one day she finishes her book and heads to the library. The player then can move around to head to the library. When the player is
+in the library, the screen turns black and one of the books "devours" him. The player ends up in a maze, and he has to escape before the bookworm "eats" him. There will be a white flag indicating the maze exit. While the  bookworm is flying above the maze, the floor and wall tiles that he passes by will disappear, so the player has to hurry. The bookworm will also occasionnally make scary sounds. The player has a dim torch lamp to guide him through the maze. The bad ending will be displayed if the player loses, and the same goes for the good ending. 
 </p>
 
 ## Features

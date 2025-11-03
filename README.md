@@ -1,7 +1,7 @@
 # Bookworm_ScreamJam2024
 
 ## Game Overview
- A horror game made with Unity in first-person 3D, in collaboration with 6 people listed here: https://ksoucha.itch.io/the-bookworm. 
+ A horror game made with Unity in first-person 3D, in collaboration with 6 people listed here -> [The Bookworm](https://ksoucha.itch.io/the-bookworm)
  
 <p align="justify">
 The game idea came from me: I tried to make a wordplay with the word "bookworm", first by taking it figuratively (a person who loves reading books), and then literally (a worm living inside a book). The game starts with multiple images and text used to tell the story of a girl who spends her days reading, when one day she finishes her book and heads to the library. The player then can move around to head to the library. When the player is
